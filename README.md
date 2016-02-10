@@ -7,3 +7,6 @@ Animals by Alphabet
 ## B
 
 ## C
+
+## G
+- Gorilla
